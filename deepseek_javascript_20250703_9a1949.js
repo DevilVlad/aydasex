@@ -1,7 +1,7 @@
 const tg = window.Telegram.WebApp;
 tg.expand();
 
-const API_URL = "https://script.google.com/macros/s/ВАШ_SCRIPT_ID/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbw6mWq4sBMhGWq8CfSA0ide4mjB9AG_gCuw44JwQwobNtAXLTWcRNbolhxEs_rYu09s/exec";
 let cart = {};
 
 // Загрузка товаров
